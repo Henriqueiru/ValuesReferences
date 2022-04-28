@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\bin\Debug\net7.0\ValueTypes.exe
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\bin\Debug\net7.0\ValueTypes.deps.json
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\bin\Debug\net7.0\ValueTypes.runtimeconfig.json
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\bin\Debug\net7.0\ValueTypes.dll
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\bin\Debug\net7.0\ValueTypes.pdb
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.dll
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\refint\ValueTypes.dll
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.pdb
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ValueTypes.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\ValueTypes\obj\Debug\net7.0\ref\ValueTypes.dll
