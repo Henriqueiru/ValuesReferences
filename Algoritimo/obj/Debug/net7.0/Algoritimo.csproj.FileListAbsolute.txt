@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\bin\Debug\net7.0\Algoritimo.exe
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\bin\Debug\net7.0\Algoritimo.deps.json
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\bin\Debug\net7.0\Algoritimo.runtimeconfig.json
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\bin\Debug\net7.0\Algoritimo.dll
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\bin\Debug\net7.0\Algoritimo.pdb
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.dll
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\refint\Algoritimo.dll
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.pdb
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\Algoritimo.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ValueTypesAndReferenceTypes\Algoritimo\obj\Debug\net7.0\ref\Algoritimo.dll
